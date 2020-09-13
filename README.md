@@ -1,4 +1,6 @@
 # MinecraftClassDeobfuscator
+/!\ OUTDATED: Compatible with 1.7.10 (Other version not tested)
+
 You can easily obfuscate methods and fields from Minecraft mods
 
 Obfuscated code:
